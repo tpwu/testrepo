@@ -18,6 +18,8 @@
  * Or go to http://www.gnu.org/copyleft/lgpl.html
  */
 
+// Just revise for creating branch
+
 #include "config.h"
 
 #include "version.h"
