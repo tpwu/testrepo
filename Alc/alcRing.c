@@ -16,8 +16,7 @@
  *  Free Software Foundation, Inc.,
  *  51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  * Or go to http://www.gnu.org/copyleft/lgpl.html
- */
-
+ */// simulate commit 3 -> branch
 #include "config.h"
 
 #include <string.h>
